@@ -9,4 +9,4 @@ This project was part of my Full Stack Web Developer Nanodegree at Udacity.
 
 ## Configuration Steps
 This part is pretty long and therefore I don't include it here. Check out my Dropbox Paper if your are interested:
-https://paper.dropbox.com/doc/Linux-Server-Configuration-Project-oaE1iDx2sZoGKWRTg0MMX?_tk=share_copylink
+https://paper.dropbox.com/doc/Linux-Server-Configuration-Project-oaE1iDx2sZoGKWRTg0MMX
